@@ -1,13 +1,4 @@
-﻿/* #####################################################################
-   #
-   #   Project       : Modal Login and register with jQuery Effects
-   #   Author        : Vijay chauhan (vijaychauhanssn@gmail.com)
-   #   Version       : 1.2
-   #   Created       : 05/09/2017
-   #
-   ##################################################################### */
-   
-$(function() {
+﻿$(function() {
     
     var $formLogin = $('#login-form');
     var $formLost = $('#lost-form');
